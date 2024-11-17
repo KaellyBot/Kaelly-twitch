@@ -6,7 +6,7 @@ import (
 )
 
 const (
-	routingkey = "news.twitch"
+	Routingkey = "news.twitch"
 )
 
 type Service interface {
